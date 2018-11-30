@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b03c49a-6e36-4b3f-86cf-b21406a2eb48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Flask/demo3/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask/demo3/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask/demo4/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask/demo4/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask/demo5/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask/demo5/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../black_board/items.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../black_board/poker.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../black_board/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/comment/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/comment/templatetags/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/comment/templatetags/comment_tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/comment/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/likes/templatetags/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/likes/templatetags/likes_tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/likes/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/mysite/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/mysite/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/read_statistics/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/static/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/static/css/blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/static/css/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/static/js/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/templates/blog/blogs_with_date.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/templates/comment/send_mail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/templates/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/templates/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/templates/user/bind_email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/templates/user/forgot_password.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/templates/user/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/templates/user/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/templates/user/user_info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/user/context_processors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/user/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/user/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/file/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/css/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/css/img/alin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/css/img/disk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/css/img/dknz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/css/img/hym.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/css/img/js.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/css/img/lf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/css/img/lkq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/css/img/lry.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/css/img/lzs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/css/img/play_btn_next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/css/img/play_btn_prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/css/img/play_icn_loop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/css/img/play_icn_src.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/css/img/play_rdi_btn_pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/css/img/play_rdi_btn_play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/css/img/process_btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/css/img/song_play_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/css/img/tofirstpage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/css/img/xg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/css/img/xuruyun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/css/img/zhl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/css/img/zjx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/css/music.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/img/alin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/img/disk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/img/dknz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/img/hym.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/img/js.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/img/lf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/img/lkq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/img/lry.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/img/lzs_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/img/play_disc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/img/play_needle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/img/xg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/img/xuruyun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/img/zhl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/img/zjx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/js/lyrics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/js/move.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/js/music.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/mp3/A-Lin - 以前，以后.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/mp3/JS - 你是此生最美的风景.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/mp3/中島美嘉 (なかしま みか) - 僕が死のうと思ったのは (曾经我也想过一了百了).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/mp3/刘若英 - 亲爱的路人.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/mp3/卡奇社 - 云.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/mp3/宇多田ヒカル,椎名林檎 - 二時間だけのバカンス.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/mp3/张敬轩 - 后来(国)(Live) - live.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/mp3/张敬轩,孙耀威 - 爱的故事上集(Live) - live.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/mp3/张洪量 - 美丽花蝴蝶.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/mp3/李克勤 - 月半小夜曲 (原曲：ハーフムーン·セレナーデ).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/mp3/李宗盛 - 山丘 (Live).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/mp3/李宗盛 - 给自己的歌 (Live).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/mp3/林凡 - 一个人生活 (《天地传说之鱼美人》电视剧主题曲).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/mp3/许茹芸 - 独角戏.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/mp3/迪克牛仔 - 值得.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oss_test1/static/mp3/黄耀明 - 暗涌(Live) - live.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requiremensts.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/dev_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/pro_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/app_qrcode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/banner_info.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/head_img1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/head_img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/head_img2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/head_img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/head_img3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/head_img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/head_img4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/head_img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/head_img5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/head_img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/main_img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/main_img10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/main_img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/main_img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/main_img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/main_img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/main_img6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/main_img7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/main_img8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/main_img9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/slider_img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/slider_img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/slider_img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/slider_img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/slider_img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/user_img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/user_img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/user_img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/user_img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/user_img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/waterfall_headImg1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/waterfall_headImg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/waterfall_img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/waterfall_img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/waterfall_img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/waterfall_img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/cont/waterfall_img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/004e12a933835942bd4b5f4f50df68fed3d1d7bf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/014d3a39403027bc8e1e010c04d0d386b9c78028.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/02f6f8402cbdd9579cffc220c6f4d7e2f628eac7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/034727e6af4ea1a9035f03d371fa1e0f0069666b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/03919df7089890c495e0fe5d972278e9c9c61d31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/04d77fe93390aedafe18702b28408a14352b5847.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/06cf496e12f96c6ca1110f4d171a47ca99fc6fc7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/075e6ffcf58ba117ee303971d9d8b29e8026a1f7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/0862f4e7a94536280817a73053db8e4a15337cae.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/0893dc6a337dc3be76bdd7bf1c5f4ed220d3b2dd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/097f70ab620b4ad2b575aa11a1a8b71489f60f09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/09f696101598f2f9dbcd3cb96d08b4ba54ec7d07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/0b10b0dfda841da5b65efe617a9593b89c1edcac.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/0b68e1e119bcd342b9e397d6dc89968d85e4028f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/0b89a48e6289db6eb5f77165a5d09b2bb9e3dbe1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/0b94a917b075653b1327406b080b919a5610edd3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/0c3e7b1584f56bf3fd36feac8044f84c91008a4b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/0f537cee34e9fa985b0a566678e1d8ebc0b3a79d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/0f920b62e2eac3ec3c51169e7415e2f16726aeb5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/112c6c5711f6250f51078dc4dc0b8954fa123a1f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/115af5a0cc33217141980a947e78efc439487bd4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/1289e4447ea47f532eaadca1cf36b9e1d7d2134e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/135533ce631e96cd35026db78839ac2385d5a4fe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/14df4c4cfe2fff277357a7a8ed80e1d30e720d3f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/15f848a8999eb17d2d2accb5e62c35580b57a5bf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/170e41d2381d0859db6fd0b873dae9124147d931.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/195cf04658ba65b7a7d6612f35a25094f80611dc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/1aeb7a58f2428cb55db916f94f6e459b8b2e681e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/1ba66be6bbc3b25b10beefbb14bb751250b65803.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/1e0caf3cce17e4ff5bd71feb5a5d9c9ad5e041f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/1e16c55dfbd05cc61a3f680d127cc026afc20e9b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/1e20cbaf6195168451a4ff5961633dfd25620129.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/1e6b91907b008473a47cb2203e9e84472b9e4426.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/1fcf3e669382d474874a634e0780305a41f4cbdb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/2061135be15a68fafe338bdb21ca9838d65aa143.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/20e1df86d18cf7aa803e54baae2f7c78b1723fe9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/214c25b037f6ae409373d00244f8a77428cb9941.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/2259310da7b8350660c62768a6bfe98004634574.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/2365e840ec0e9d5a749ef7242c94059dca7e53b5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/23a928f14dc940478703ee5a8301be943cda0bc1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/23ed9bd3c80a56e2a8ce7e9672792e199d3a9e0b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/249b795347a14ec3250fc3642381d72239447465.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/24d2a9afc3801dc5144525f141fc98bcd7744ed5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/24f1924c73bb6b937f8cc8d035b5bfae08142e4b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/26213c1d35ef1ff5d7dfba85fea41d2ae6dd5c65.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/26686b0f2b5d3300f47ee3ee503832bfacc4c704.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/27017c9a1267088efee668c49138e387d75b43b6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/290b57c8c3873ac17cda7f09f9f1fa8076ba9b7d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/2ac46b265b5d7f25178ea3d0c222f459f869956e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/2cb4ca24229b4d076d233ed18721efdd240c59fb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/2ceebd48d24f761291418ce473eff4bdb28fa654.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/2f16be81a56456eeabcf644e49dd8d71f15af0b1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/2f617352b3c1b81cc444e8421cc17b530d279bec.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/3053393b29816417abdc9d3218f5a1afb81d457c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/30e36d60f23f4f267c8d49a70c934fa3d8c3e7a6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/310b8c782adbd9ee8d6736f2e85f80427da43e09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/333cea46f1048c68307124a0140d10f325dd9eee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/34c74935dfffdf48956e7b12450138d6e202236a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/353ddf38d1080890f80637e5ebfbc1d812ad9ee4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/3603eecacd0440c19cc43b9f4bc1dd0f5ce65433.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/3667d8d2875542be64708d3ce12d91eabd7bfe84.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/366fdc1f77fc53cf10e51a67547bb34805d77e63.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/38c0c5ed5adc235dbaef4244a372d1bf2aecf17e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/38d79663efd77215faad715260168509b516c26d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/39943bd0c1757d2f441052c27e357f3a84d61c72.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/3a0e118fef5fd15f1fbee58e770bb9a9bca45a34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/3d7cbf2130582d0a260bd20e581d084cb113cab1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/3def9d087c760d9b9dff0633bbdec915e9492342.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/3ec2adbc27b22880cd46452bf32b184e8f172476.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/3f617539c29948da9684967255b7b5f4a9fb6909.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/408ca5ad9334669b604720f7a1a2005224178000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/40997eb293d18b322e7f02cdfeb3d0c1ec294100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/40f869d402e6bb601100729ab0d227bca3a77cd4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/434f44c1f7f17281d18ffa11deff63aa0a7a0e9f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/435b0abd622efd8252cb0ccd7890a2ecbaf5cd50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/4529c337eecbeaa346ca770950cfa12c9d04caa1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/4541c8064048b2be58a1d9414df3d3baf53f5078.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/45ee6432436882a7da1148afe1d8760311b4faa2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/45f60052dc370f7e1ce56aee8beae5bff54cae89.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/46ae1afdab3d6249cb0cd7dddeb60d6e51872d9b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/48d929326356910506df9b32169eafca8ab3c3ae.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/4a1c8c2d38caa5fea3b47c7ed48e3d051055143e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/4a33f5952cb08b028d1dd6a07121ef64ef5a5666.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/4b6619712185ee5a9c28dbc182d6513fc104cdd2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/4bff20284b4a8eec927f3b448889eaadddc0ea7f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/4ed4495dcf003c3cdea3c4a08f05fa0324814603.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/50919643089897e31c4756c5b6797f62d3d6bc2c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/5663bf70e143bfee70c3bec5084f47e73a35469a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/5afbe8bf5753fc99471b7fc35d28281788b5ab88.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/5d137cb6f44c50ccc59ae1388955c887c1d0f8da.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/5d16155ab7cb6df1789f126def025566ff67e0f1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/60477e955bf60a37ababc63641294ed80a3566f6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/61b7e2c6e6d5d4a85e6a06c21b9fa05ab3dacbe2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/63330c32f889b7a162d7ebcecafde7a99846af2c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/68cdceb6237bf8affbc10fabff2cc75a376636ca.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/68cdd9c1ab3c3a10c103374829b17b253987c578.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/6a3836e9f0cc32098eec3973afb2b5e1a8d3c216.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/6a9b8fcb1fa64f2b7b8e6e733c5b10871cb4bed1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/6bce759f1c8c288c52bda8e91f43fba8e1e4b74e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/6d1c358ff6cf4beb58b98efdb6f04c7697444ef2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/71a72d86dee360e3c55650e388288d80575dc551.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/72da6d14c494b13f8e83930bc76bbc2fed414a24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/73c754deed15ced9e789131bcf6658295496b6b0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/74d4248c3e9754fe5dd88962879966b6ef830027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/75d2caa7e58ba841b08cc27394bfdd4cca0a3929.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/76e3d11ff613418ff93596a5dc1b0e66ce37eb1b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/76f32aa87e392ae53ac8c410307de6aa9d4063df.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/774ccebb500acc02db80b203b20c6dff1283190a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/77d6b4d75bf1611d107c5202dac848c57a744297.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/7c74583b72dbd77555246cf00c315bd60a3b8ae1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/7df224c49cf9e776161a36e95a1766ed676f2bb9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/7f24df7abd8ebcbb7c3a1ea6dba991e56b5c86c0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/7fc5eee59b57a169e69b00078e1370cf1c04e542.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/803aee5edb214fd57342c2f43aa09e79bc66f7d8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/837cb8a1077fb3fd120a446edd69e413d62cb59a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/874199ae88197dc3d78b46bc85b72920979ae9ca.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/87ae08bc9058f29157dc9247c37be50b932a8438.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/888182831d713d6586eaf4c65b44484b96ccffbf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/88f157ef0640011a4c9a2349f512a87063d084e9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/8a86bfa3981494f8f387e260e2a3f65d29b48fd0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/8c76cea8345ce8d9287246448bb5e7f3c9e8a4df.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/8cc38796ec5cf5788e40b8a9d42443caa7db8eae.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/8e87f384333254a1a504d27063f6397b0ef85ba8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/8fa62d85c11022495c02cae5461fbcd701f1349f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/910100e3827360b87ea5c0f0ab3bb88c2e66bd43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/913e7dd651a4a3c1b2c7193c989910ea3b142f0a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/95595e3bcc6d8dd99aae6cfa59c3e5249b96ea3d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/964ab45cbb2a9b03628f45e512f102af7d2cfbc2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/971a49c17fb23891b9c889e7eda5505a54820603.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/9986cd7d6c8d342f7655a74b7adae3cd9814ba1e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/99918aa56621efb9c76621ff4eacae34a515735c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/9ae731da171b0c12a369edf6fd0283ab8bbadac2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/9cd53d8e467361849d45a9950166b4d624efed5c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/9d21a8cfaf35f87f967abd735cf92769c39f07d6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/9e7f840fe4cd1b9f063a96c95dcf5839f86021c8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/a00c025192260219db25e8d822983ca828ccc861.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/a074560726100c093aac4d519d5f854b6a3e2a58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/a084cc7959b063e6694e9df37a4965950498fb0f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/a23d6030302fdc82b2ad0cf3b2d428e57a8c8bf9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/a26ae797749d7062956b05affd3606af1a92d181.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/a2c34d823fee22574e5b24f2a856f1fe3346c4d2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/a3dcf5ee25f8e58e735b42953fea384251d93a0a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/a48c716d698a60f138799ee6a2330161ffa98a4d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/a5bfed29f9567c2c1dd74a54b7db496f6cf09036.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/a7668e9de7ae9c4b976002e11c25074c8753d719.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/a79d634fa4b9db22b85c1104f2e15a5eb6a4e904.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/a87a18ea7f00730a6d69e653d47bf58c23f4eebc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/a987f17062107832cd63900d99d518c545acf7e0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/a9a3360a47713862290aad88eb3bcd422f90e5f7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/aa8e15a1ef4fa260de74ff192ceb9f3577cd7fef.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/ae136d8634e9b1290d40ed538f9eadc4d7cfb76f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/ae3322de74d54ea4493e6aaa827b79cc2f659ab2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/aee706141bb6aed06ed9665c2ceab9eb312c2859.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/af19c08ade08ef603bac445bc93710d243456d6f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/b0f353ecbb5a754e334a2425f276064558ce569d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/b3416b5ec835eb04f1d096bacb7c7d0ba503bcb3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/b52bf341c2a2ca6bf90bce96867c139fc806abef.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/b5774dbcc6ec0b2ee3d7470db2e01ba473a0c9f1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/b78a75afe5ca0417a2aa555d5a0b9eb575cc2705.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/b928460882e7bd522fc9edfb84256f54efee224c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/b928dd10f8f8a9ac6e8147cc50dc58b95ddffc0f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/b9aadfd863a2a206b47cb53af89cae79520eee35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/bb95864d42d388e081ab378cfe928b7667a884f0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/bc82af70e46fbca815329197b003448b843cd43c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/bd3f0c56285b4aa781a6b381246c2840605990ab.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/bdeeda4bb1c6077c04f204279a720315241cb396.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/bf05856e8affd620826abc4723a4945eaa680d5c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/c1e5d17e201e1b968408db31e922aa90568a4f4c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/c265d9255adedf7174cc0f670572184b4df63e55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/c47624867a687c38ce8c20848b90ef632db65c99.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/c5f2a95cb399c6858ada830ea470aa251ab1d314.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/c644189bcfd57c3677297790517c67c5c644c648.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/c6fdddc14a631690f2d9735c29bfcaf75485617e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/c72c6b92c426e5549559c55556569b815f590d83.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/c83bb7f47a79cf603b3ebc822a9b66f30312eca2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/cbcca05a6dd55b37dc72b8b7fda007cfc31965d6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/cc42cc5b09e4db892609f3f11e5a846945d6f0b7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/cd164579dc8fde8fe4945cdeb9756f04e7e3725f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/cd430d154be0b3083e036775ad4297fd770b5107.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/ce0103e727fccaa4d0f950c6650ec1fa7967380b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/ce2e67a6de2de507f81595b8d1307fcfd01b4eb8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/cedf27a0317f1070074a52c8133e3648f48b0003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/cee3f9718e8d331fec089436f74b9e0eb0564df5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/cf98fbaf5efd887633b63a9279ae818b549383bd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/cfe545a662b2f573c24016a3038cd9d1a46176da.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/d2cc69ce47387c3db1c0a0b12fc1fc2f0964ea41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/d3df783a47bf40c4474c383c64e6228fe6b821b7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/d54c89f9c3c901727b85335a6940a6cad8a01163.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/d6666738888fdd074b17be1b364fa5516b9e8c2e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/d782dbcaca6722bdb0bb7ac12a243d22a55cc6ff.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/d7f0030317ed5bcd8ab29e1a3b993546cde2ee2d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/d8a9d27b660a68a2aeffb29b90fb258e2351a32a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/d9aa923ecb6796a0e7658cbcb6fb349fc05dda20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/dab20c55e8c6f757da3e63b5b57f347a8dc85b48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/dc32bf4f63e4b76246aaf018c92c4a61fecd20c5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/dd2cc076c8c6cea43538436b8afd7092b9bc3035.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/dfac4b89d98cf7df1d5251ef9833ce1bf4ba4abd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/e13bc351b66e063867480dc22cabd644901702e6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/e1cef8f82e7db2ef7f278f70013b9d68dbb64e65.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/e20a8a6d7faabe4501480d4cdc7e0acb3b3d961e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/e44ffdd5d817648557cb96517da1fe361a9f99b5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/e4b78fc6ac47a36542192865f8ac174039accf94.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/e6585218b58a296620abb97e0d144271d9058b19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/e6716a4b7978e25b81d376a8f8009d1cba814a2c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/e6efa774e5aa8922715af98635fc4452c3b2b2fb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/e70fc637e26e216739b0cd7496a71f73ca65f137.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/e79b266aabb520858aa7fc8f6fdb3d15563e5bbd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/e8d91e4330e0f660a188000345000b7af66e08df.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/eb2d4383c6626f1c68dad2cbe677511dc1e156f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/eb32cfe9027144e892af2749584f19eabdb070a2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/ebd2c53e7e011c95110b73d6a4508dca7b0c2786.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/ec0995dd5e7df0dd15007cbbf56bab23bffe37d5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/ef7c9281bf60b591f675f8b96c8ab70e076a2937.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/efdcdb09dbf5947514800f3227954c2d99bddbe9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/f1ff7a1c5661643276bb3bb698b3c487df0891ee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/f20752b3da7c087c02da0d0e0d931df4387c18df.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/f21f63c8a7a0da010599aa7a55bd0ff701a29e65.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/f3378f7d4b5b1cbf1f85201cb56374cf8f44af1a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/f3ce09b442b6e042493fae878953e0db5c220c54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/f5aa5cf4d38406c30f3a4676ecb3a9637d2f4210.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/f6da1f39cd43df39ffdb3b7752fe4d63a2f29d28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/f72e611ab43b4d901f36fa20e11f842ba7471a32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/f76f3a1e82b36d6229a418f2398ee02520e228b1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/f77fe8b1bb2acbc023b5257b31967ddbad0effc7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/f7f3e6cc5c97438bdb006dfaefea67849976d488.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/f9ce68ad207f0dc52b3019a7888f0964b9c7715c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/fd346cd70013b885515c36c41da9935be6b281dd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/fd9173f999f496d66c5d9ed70892e70bba7cdd6c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/full/ffd2763832f5f914af98ede8892a7cfb5237e646.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/icon_app.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/icon_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/icon_search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/icon_sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/json/items.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/douban/json/poker.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/douban/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/douban.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/.drone.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/.github/ISSUE_TEMPLATE/bug-report.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/.github/ISSUE_TEMPLATE/feature-request.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/.github/move.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/deploy/deploy_production" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/deploy/deploy_staging" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/deploy/k8s-deploy/tasks/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/deploy/k8s-deploy/templates/deployment.yaml.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/deploy/k8s-deploy/templates/install.sh.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/deploy/production.hosts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/deploy/production.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/deploy/staging.hosts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/deploy/staging.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/docker/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/k8s-ansible/deploy_production" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/k8s-ansible/deploy_staging" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/k8s-ansible/k8s-deploy/tasks/main.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/k8s-ansible/k8s-deploy/templates/deployment.yaml.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/k8s-ansible/k8s-deploy/templates/install.sh.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/k8s-ansible/production.hosts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/k8s-ansible/production.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/k8s-ansible/staging.hosts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/k8s-ansible/staging.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/make_tag_and_deploy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/aiocqlengine/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/aiocqlengine/aiocassandra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/aiocqlengine/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/app/listeners.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/app/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/configs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/configs/docker_compose.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/configs/drone_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/configs/production.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/configs/staging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/models/db_schema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/models/management.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/static/css/bulma.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/static/css/debug.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/static/css/download.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/static/css/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/static/css/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/static/css/phone.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/static/img/android.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/static/img/apple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/static/img/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/static/img/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/static/img/bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/static/img/divided.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/static/img/download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/static/img/erweima.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/static/img/google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/static/img/iphonex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/static/img/laiwan_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/static/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/static/img/neice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/static/img/qrcode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/static/img/qrcode_production.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/static/img/qrcode_staging.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/static/img/top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/static/json/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/static/json/poker-information.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/static/json/poker.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/templates/download.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/templates/glossary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/templates/information.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/tests/test_k8s.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/tests/test_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/views/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/views/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/views/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/views/k8s.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/views/routers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/views/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/views/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sanic_test/texas_holdem_glossary_sanic/src/views/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/SeeMeiSpider/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/SeeMeiSpider/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/SeeMeiSpider/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/SeeMeiSpider/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/SeeMeiSpider/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/SeeMeiSpider/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/SeeMeiSpider/spiders/MzSpider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/SeeMeiSpider/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/SeeMeizi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/SeeMeizi/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/SeeMeizi/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/SeeMeizi/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/apps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/apps/index/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/apps/index/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/apps/index/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/apps/index/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/apps/index/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/apps/index/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/apps/index/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/apps/index/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/css/assets/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/css/assets/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/css/assets/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/css/gallery/foundation.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/css/gallery/set1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/blog-image-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/blog-image-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/blog-image-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/details-image-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/details-image-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/details-image-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/footer-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/gallery/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/image-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/image-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/image-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/images/nav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/assets/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/assets/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/assets/modernizr-2.8.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/assets/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/gallery/imagesloaded.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/gallery/jquery.infinitescroll.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/gallery/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/gallery/masonry.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/jquery.contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/jquery.nicescroll.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/static/js/maps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1_KMZ/SeeMeizi/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test7_lagou/spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../my_blog/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/article/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../my_blog/article/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/article/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../my_blog/article/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../my_blog/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/my_blog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../my_blog/my_blog/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/my_blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../my_blog/my_blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../my_blog/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my_blog/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../my_blog/templates/home.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/san_test1$pytest_in_run_py.coverage" NAME="pytest in run.py Coverage Results" MODIFIED="1543544714119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/san_test1$pytest_for_run_test.coverage" NAME="pytest for run.test Coverage Results" MODIFIED="1543544704670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/san_test1$run.coverage" NAME="run Coverage Results" MODIFIED="1543544733444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-689632149">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="8" />
+          <entry key="json" value="6" />
+          <entry key="md" value="1" />
+          <entry key="py" value="33" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="8" />
+          <entry key="JSON" value="6" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="294" />
+          <entry key="py" value="338" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="294" />
+          <entry key="Python" value="338" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/douban.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="29" column="36" lean-forward="true" selection-end-line="43" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#23#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/templates/douban/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-12">
+              <caret line="81" column="65" lean-forward="true" selection-start-line="81" selection-start-column="65" selection-end-line="81" selection-end-column="65" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#4;n#ul#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/config/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>link</find>
+      <find>script</find>
+      <find>feed</find>
+      <find>fee</find>
+      <find>img src=&quot;</find>
+      <find>user_im</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>img src=&quot;/static/douban/</replace>
+      <replace>img src=&quot;/html</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/src/views/rss_json.py" />
+        <option value="$PROJECT_DIR$/src/views/rss_html.py" />
+        <option value="$PROJECT_DIR$/src/views/__init__.py" />
+        <option value="$PROJECT_DIR$/src/views/rss.py" />
+        <option value="$PROJECT_DIR$/src/run.py" />
+        <option value="$PROJECT_DIR$/src/templates/douban/index.html" />
+        <option value="$PROJECT_DIR$/src/views/douban.py" />
+        <option value="$PROJECT_DIR$/src/config/config.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1920" />
+    <option name="y" value="81" />
+    <option name="width" value="1920" />
+    <option name="height" value="983" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="san_test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="san_test1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="san_test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="san_test1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="san_test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="san_test1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="san_test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="san_test1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="san_test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="san_test1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="douban" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="san_test1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="san_test1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/static/douban/json" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/views" />
+      <recent name="$PROJECT_DIR$/src/static/douban" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="san_test1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for run.test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="san_test1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;run.test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in /Users/maya/pycharm_project/san_test1/run.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="san_test1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/run.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest in /Users/maya/pycharm_project/san_test1/run.py" />
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python tests.pytest for run.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python tests.pytest in /Users/maya/pycharm_project/san_test1/run.py" />
+        <item itemvalue="Python tests.pytest for run.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b03c49a-6e36-4b3f-86cf-b21406a2eb48" name="Default Changelist" comment="" />
+      <created>1539927402570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539927402570</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_run_py - 2018.10.19 at 13h 38m 02s.xml">
+      <configuration name="pytest in run.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_run_py - 2018.11.30 at 09h 38m 28s.xml">
+      <configuration name="pytest in run.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_run_test - 2018.11.30 at 09h 38m 33s.xml">
+      <configuration name="pytest for run.test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_run_py - 2018.11.30 at 09h 38m 45s.xml">
+      <configuration name="pytest in run.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_run_py - 2018.11.30 at 10h 19m 31s.xml">
+      <configuration name="pytest in run.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_run_test - 2018.11.30 at 10h 21m 36s.xml">
+      <configuration name="pytest for run.test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_run_py - 2018.11.30 at 10h 24m 03s.xml">
+      <configuration name="pytest in run.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_run_test - 2018.11.30 at 10h 25m 05s.xml">
+      <configuration name="pytest for run.test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_run_py - 2018.11.30 at 10h 25m 07s.xml">
+      <configuration name="pytest in run.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_run_py - 2018.11.30 at 10h 25m 15s.xml">
+      <configuration name="pytest in run.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1920" y="81" width="1920" height="983" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2550586" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32996634" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32884398" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005325" side_tool="true" weight="0.32953367" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946752" weight="0.32884398" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/run.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/docs/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/items.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="45" selection-start-column="45" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/rss_html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/douban/json/items.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="138" selection-end-column="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/douban/json/poker.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/rss_html/rss.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="70" lean-forward="true" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/poker.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requiremensts.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/rss_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/rss_html.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#22#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/rss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/sanic/router.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="358" column="62" lean-forward="true" selection-start-line="358" selection-start-column="24" selection-end-line="358" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="e#22#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/pro_config.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/dev_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/douban.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="29" column="36" lean-forward="true" selection-end-line="43" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#23#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/douban/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="81" column="65" lean-forward="true" selection-start-line="81" selection-start-column="65" selection-end-line="81" selection-end-column="65" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#4;n#ul#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
